@@ -221,7 +221,7 @@ nav li a:hover {
     background-color: #0e3464;
 }
 
-.section-about h2 {
+.section-about .header-anim {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -345,7 +345,7 @@ nav li a:hover {
     animation-delay: 0.1s;
 }
 
-.section-skills h2 {
+.section-skills .header-anim {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -475,7 +475,7 @@ nav li a:hover {
     background-color: #0e3464;
 }
 
-.portfolio h2 {
+.portfolio .header-anim {
     display: flex;
     align-items: center;
     justify-content: center;
