@@ -218,7 +218,7 @@ nav {
           .section-about .info .info-list li i:hover {
             color: #dc143c;
             transition: .2s ease-in-out; }
-        .section-about .info .info-list li #snd {
+        .section-about .info .info-list li .snd {
           font-weight: 400; }
   .section-about .right-side .info-img {
     max-width: 30vw;
